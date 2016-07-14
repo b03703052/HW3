@@ -1,0 +1,37 @@
+.square {
+	width: 290px;
+	height: 300px;
+	border-radius: 800px;
+	background: gold;
+	font-size: 200px;
+	font-family: Arial;
+	font-weight: 900;
+text-align: center
+}
+
+.square123 {
+	width: 300px;
+	height: 300px;
+	border-radius: 800px;
+	font-size: 200px;
+	font-family: Arial;
+	font-weight: 900;
+	background: hsl(0, 100%, 50%);
+	text-align: center
+}
+body{
+background:#fbefa5;
+}
+strong { color: #0067ff; color: #f00;}
+td {
+    font-size: 120px;
+}
+p{ color: white
+	
+}
+
+
+
+
+
+
